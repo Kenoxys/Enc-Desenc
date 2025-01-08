@@ -70,6 +70,10 @@ Sube tus cambios
 
 Abre un Pull Request.
 
+Lanzamiento
+
+En el apartado lanzamiento puedes usar el programa descargalo sirve por lo momento para Linux
+
 Licencia
 
 Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo LICENSE para más información.
